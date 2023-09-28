@@ -13,7 +13,7 @@ class App extends StatelessWidget{
     return const GetMaterialApp(
       debugShowCheckedModeBanner: false,
       home: SplashView()
-
+      
     );
   }
 }
